@@ -1,5 +1,7 @@
 <?php
 
+	session_start();
+
 	// --- DB connection
 
 	$conn = mysqli_connect(

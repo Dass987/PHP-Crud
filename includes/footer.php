@@ -1,4 +1,4 @@
-	<footer class="footer py-3">
+	<footer class="footer fixed-bottom py-3">
 		<div class="container">
 			<span class="text-muted">&copy;Copyright 2019 - Danniel Sequera</span>
 		</div>
